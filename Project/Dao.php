@@ -16,7 +16,7 @@ class Dao {
     public function index() {
         echo "Go DAO !!";
         echo "GO Alteração";
-        echo "Go Charmander";
+        echo "Go Pickachu";
     }
 
 }
