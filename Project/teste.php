@@ -1,6 +1,6 @@
-<?php 
+<?php
 
-public class Teste{
+class Teste{
 	public function teste(){
 		echo "teste pull";
 	}
